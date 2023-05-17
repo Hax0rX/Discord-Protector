@@ -33,10 +33,7 @@
 <div align="center">
 
 ## Showcase
-<a href="https://hax0rx.github.io&">
-  <img src="[https://i.postimg.cc/tJZbcxjp/New-3-Projec11112323t33download.png](https://i.postimg.cc/J04x7NnC/imag11e.png)"/>
-</a>
-
+![obraz](https://i.postimg.cc/J04x7NnC/imag11e.png)
   
 ## Credits
 Discord Protector made by [Hax0rX](https://github.com/Hax0rX)
